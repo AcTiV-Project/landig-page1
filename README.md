@@ -29,9 +29,11 @@ Este repositorio contiene diferentes interfaces web creadas para práctica, apre
 
 ![preview](/capture3.png)
 
-# 📁 Estructura del proyecto
+# 📁 Actual structure of the project
 
 ```bash
+project/
+
 project/
 │
 ├── css/
@@ -44,6 +46,8 @@ project/
 │
 ├── images/
 │   ├── capture.png
+|   ├── capture2.png
+|   ├── capture3.png
 │   ├── logo.png
 │   └── image1.png
 │
