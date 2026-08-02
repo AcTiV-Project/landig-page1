@@ -19,7 +19,7 @@ Este repositorio contiene diferentes interfaces web creadas para práctica, apre
 ### Capture of window
 
 # Home
-![preview](/capture.png)
+![preview](/capture1.png)
 
 # About
 
